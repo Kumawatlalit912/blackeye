@@ -1,8 +1,8 @@
 ## BLACKEYE v1.2
 ### UPDATES :
 -Added 2 new websites : iCloud ID , Wi-Fi phisher
--Updated Google Account website
--Removed : Spotify,Netflix,Paypal,eBay,Amazon,CryptoCurrency and Steam.
+                       -Updated Google Account website
+                                   -Removed : Spotify,Netflix,Paypal,eBay,Amazon,CryptoCurrency and Steam.
 -They are available on the pro version of Blackeye including more websites with paid content.
 ### Contact me on Instagram : @suljot_gjoka for the Pro Version
 
