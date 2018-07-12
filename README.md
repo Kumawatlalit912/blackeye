@@ -1,3 +1,12 @@
+## BLACKEYE v1.5
+### UPDATES :
+##### Added 10 new websites from the Pro version!
+##### The tool is completely free now
+####  FOR ANY SUGGESTION CONTACT :@suljot_gjoka on Instagram!
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
 ## BLACKEYE v1.2
 ### UPDATES :
 ##### Added 2 new websites : iCloud ID , Wi-Fi phisher
